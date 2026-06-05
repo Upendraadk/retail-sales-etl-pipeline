@@ -1,0 +1,6 @@
+order_id,date,product,category,price,quantity,customer_id,city,revenue
+1001,2026-03-01,Laptop,Electronics,800,1,C001,Kathmandu,800
+1002,2026-03-01,Phone,Electronics,500,2,C002,Itahari,1000
+1003,2026-03-02,Shoes,Fashion,60,3,C003,Biratnagar,180
+1004,2026-03-02,T-shirt,Fashion,20,5,C001,Kathmandu,100
+1005,2026-03-03,Headphones,Electronics,100,2,C004,Dharan,200
